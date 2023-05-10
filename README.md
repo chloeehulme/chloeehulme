@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chloeehulme
-- 👀 I’m interested in fullstack development and robotics
+- 👀 I’m interested in fullstack development and cloud computing
 - 🌱 I’m currently doing my Bachelors in Software Engineering (third year)
 - 📫 How to reach me: via email -> chloeehulme@gmail.com
 
