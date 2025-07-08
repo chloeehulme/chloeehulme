@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chloeehulme
-- 👀 I’m interested in fullstack development and cloud computing
+- 👀 I’m interested in full-stack development and cloud computing
 - 🌱 I have completed a Bachelor of Software Engineering (minor in Cloud Technologies), graduating with First Class Honours
 - 📫 How to reach me: via email -> chloeehulme@gmail.com
 
